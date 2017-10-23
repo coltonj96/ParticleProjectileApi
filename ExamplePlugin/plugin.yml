@@ -1,0 +1,4 @@
+name: ExamplePlugin
+author: 'Colton Griswold'
+main: com.aim.coltonjgriswold.ExamplePlugin
+version: 1
