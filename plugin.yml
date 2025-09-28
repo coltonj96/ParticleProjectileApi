@@ -1,0 +1,5 @@
+name: ParticleProjectileApi
+main: com.aim.coltonjgriswold.ParticleProjectileApi
+author: 'Colton Griswold'
+version: 0.2.3
+api-version: 1.18
